@@ -1,5 +1,6 @@
 # Log4ShellNetRepro
 This repository proves the Log4Shell vulnerability in Log4J is *not* present in Log4net
+The vulnerability is detailed here : https://www.lunasec.io/docs/blog/log4j-zero-day/
 
 # lognetcore
 The log dotnet core console app base was created following the below guide
